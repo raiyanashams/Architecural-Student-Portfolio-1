@@ -1,11 +1,10 @@
 :root {
   /* Global font, line-height, and colors */
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	font-family: Franklin Gothic Light,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif; 
   line-height: 1.5;
-  font-weight: 400;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-}
+  font-weight: 1;
+  color: rgba(52, 76, 61, 1.00);
+  background-color: floralwhite}
 
 * {
   /* Reset margins, padding, and set box-sizing */
@@ -96,11 +95,9 @@ h1 {
 #model2,
 #model3 {
   height: 300px;
-  width: 300px;
+  width: 388.2px;
   margin-right: 3em;
-  margin-left: 6em;
-  border: 1px solid #ccc;
-}
+  margin-left: 6em;}
 
 img {
   /* Image dimensions and margin */

@@ -1,13 +1,12 @@
 // CUSTOMIZE THIS FILE TO ADD YOUR OWN DATA
 
 const data = {
-    name: "John Doe",
-    bio: "Undergraduate Architectural Student at University of Calgary passionate about building tools to make homes more affordable.",
+    name: "Raiyana Shams",
+    bio: "BDCI Student at University of Calgary passionate about accessible, sustainable, and equitable urban planning.",
     contact: {
-        email: "john.doe@gmail.com",
-        phone: "+12345678910",
-        linkedin: "https://www.linkedin.com/",
-        github: "https://www.github.com/",
+        email: "raiyana.shams@ucalgary.ca",
+        linkedin: "www.linkedin.com/in/raiyana-shams-b52b8028a",
+        github: "https://github.com/raiyanashams",
     }
 }
 
