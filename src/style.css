@@ -3,8 +3,8 @@
 	font-family: Franklin Gothic Light,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif; 
   line-height: 1.5;
   font-weight: 1;
-  color: rgba(52, 76, 61, 1.00);
-  background-color: floralwhite}
+  color: #344c3d;
+  background-color: #fffaf0}
 
 * {
   /* Reset margins, padding, and set box-sizing */
@@ -36,20 +36,20 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: #333;
-  color: white;
+  background-color: #344c3d;
+  color: #fffaf0;
   z-index: 10;
 }
 
 a {
   /* Link styling */
-  color: #8da3eb;
+  color: #d8959b;
   text-decoration: none;
 }
 
 a:hover {
   /* Link hover effects */
-  color: #4c6aca;
+  color: #d8959b;
   text-decoration: underline;
   transition: 0.2s;
 }
@@ -65,7 +65,7 @@ a:hover {
 
 h1 {
   /* Heading font size */
-  font-size: 2.5em;
+  font-size: 3em;
 }
 
 #projects {
@@ -73,21 +73,21 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
   margin-bottom: 10em;
 }
 
 #project-row {
   /* Row layout for projects */
   display: flex;
-  justify-content: center;
-  padding-top: 5em;
+  justify-content: left;
+  padding-top:3em;
 }
 
 .three-model {
   /* Styling for project models */
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
 }
 
@@ -109,10 +109,10 @@ img {
 #images {
   /* Center image container */
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
-  height: 8em;
-  margin-bottom: 2em;
+  height: 5em;
+  margin-bottom: -1.25em;
 }
 
 #images-row {
@@ -127,11 +127,11 @@ img {
   /* Center description content */
   display: flex;
   align-items: center;
-  height: 4em;
-  width: 35em;
+  height: 7em;
+  width: 40em;
   font-weight: 100;
-  margin-left: 2em;
-  margin-top: 3em;
+  margin-left: 0.25em;
+  margin-top: 1em;
 }
 
 @media screen and (max-width: 768px) {
