@@ -33,8 +33,8 @@ document.querySelector("#app").innerHTML = `
     <section id="projects">
       <div id="project-row">
         <div class="three-model">
-          <a href="./public/All the Pics/All done.png" target ="new">
-          <img src="./public/All the Pics/All done.png" id="model1"
+          <a href="./All the Pics/All done.png" target ="new">
+          <img src="./All the Pics/All done.png" id="model1"
           </a>
         </div>
         <div id="images-description">
