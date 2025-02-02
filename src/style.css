@@ -84,6 +84,13 @@ h1 {
   padding-top:3em;
 }
 
+#project-row1 {
+  /* Row layout for projects */
+  display: flex;
+  justify-content: left;
+  padding-top:6em;
+}
+
 .three-model {
   /* Styling for project models */
   display: flex;
@@ -106,6 +113,25 @@ img {
   margin: 0.5em;
 }
 
+#images1 {
+  /* Image dimensions and margin */
+  height: 300px;
+  width: 1000px;
+  margin: 0.5em;
+}
+
+
+#table {
+  height: 1200px;
+  width: 1200px;
+  margin: 0.5em;
+  padding-top:0em;
+  padding-bottom: 0em;
+}
+
+
+
+
 #images {
   /* Center image container */
   display: flex;
@@ -113,6 +139,16 @@ img {
   align-items: center;
   height: 5em;
   margin-bottom: -1.25em;
+}
+
+#images1 {
+  /* Center image container */
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 9em;
+  width:2px;
+  margin-bottom: -5.25em;
 }
 
 #images-row {
